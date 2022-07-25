@@ -1,2 +1,2 @@
 # Numpy Exercise
-A comprehensive exercise on numpy
+A comprehensive solution to numpy exercise
